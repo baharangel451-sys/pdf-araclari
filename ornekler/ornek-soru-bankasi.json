@@ -1,0 +1,11 @@
+[
+  { "id": "p1-01", "kazanim": "FB.6.5.2", "tur": "coktan-secmeli", "zorluk": 1, "beceri": "FBAB7",
+    "soru": "Deniz seviyesinde saf su ısıtılıyor. Termometre 100 °C'u gösterdiğinde su kaynamaya başlıyor. Kaynama sürerken termometre ne gösterir?",
+    "secenekler": ["Sıcaklık artmaya devam eder", "Sıcaklık 100 °C'ta sabit kalır", "Sıcaklık düşer", "Sıcaklık önce düşer sonra artar"],
+    "cevap": 1, "aciklama": "Saf bir madde hâl değiştirirken sıcaklığı sabit kalır. Su, kaynama süresince 100 °C'ta kalır." },
+  { "id": "p1-02", "kazanim": "FB.6.5.2", "tur": "coktan-secmeli", "zorluk": 2,
+    "soru": "Etil alkolün kaynama noktası 90 °C'tur. Buna göre 85 °C'taki etil alkol hangi hâldedir?",
+    "secenekler": ["Katı", "Sıvı", "Gaz", "Katı-sıvı karışık"], "cevap": 1, "aciklama": "Kaynama noktasının altında sıvıdır." },
+  { "id": "p1-03", "kazanim": "FB.6.5.9", "tur": "dogru-yanlis", "soru": "Buz suda yüzer.", "cevap": "evet" },
+  { "id": "p1-04", "kazanim": "FB.6.5.5", "tur": "dogru-yanlis", "soru": "Buz suda yüzer.", "cevap": true, "aciklama": "Neden yanlış: buzun yoğunluğu azdır." }
+]

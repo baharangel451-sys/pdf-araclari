@@ -1,0 +1,23 @@
+{
+  "name": "meb-pdf-toolkit",
+  "version": "1.0.0",
+  "description": "PDF okuma, tablo çıkarma, OCR ve MEB kazanım analizi (PDF.js + Tesseract.js + Poppler)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "fikstur": "node test/make-fixtures.js",
+    "analiz": "node bin/pdf-oku.js analiz"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tesseract.js-data/eng": "^1.0.0",
+    "@tesseract.js-data/tur": "^1.0.0",
+    "pdfjs-dist": "^6.5.438",
+    "tesseract.js": "^7.0.0"
+  },
+  "type": "module",
+  "bin": {
+    "pdf-oku": "bin/pdf-oku.js"
+  }
+}
