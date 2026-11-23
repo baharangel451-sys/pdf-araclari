@@ -1,0 +1,422 @@
+[
+  {
+    "id": "8fen-d1-01",
+    "kazanim": "F.8.1.1.1",
+    "unite": "Mevsimler ve İklim",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Selin Hanım'ın yaptığı açıklamalardan hangileri doğrudur?",
+    "baglam": "Bir güneş enerjisi firmasında çalışan Selin Hanım, çatılara yerleştirilen güneş panellerinin açısının neden önemli olduğunu müşterilerine göstermek için aşağıdaki düzenekleri hazırlamıştır. Düzeneklerde özdeş el fenerleri, kareli kâğıtların ortasına aynı uzaklıktan tutulmuştur. Fenerin ışığı Düzenek 1'de kâğıda dik, Düzenek 2'de ise eğik olarak gönderilmiştir. Selin Hanım, düzenekler ve çatıdaki panel ile ilgili şu açıklamaları yapmıştır:",
+    "maddeler": [
+      "Düzeneklerde değiştirilen değişken, ışığın kâğıda geliş açısıdır.",
+      "Düzenek 1'de kâğıdın birim yüzeyine düşen ışık enerjisi, Düzenek 2'dekinden fazladır.",
+      "Panelin, Güneş ışınlarını dike yakın açıyla alacak şekilde yerleştirilmesi panelin birim yüzeyine düşen enerjiyi artırır.",
+      "Bu düzeneklerden, Dünya'nın Güneş'e olan uzaklığı değiştiği için mevsimlerin oluştuğu sonucuna ulaşılır."
+    ],
+    "secenekler": [
+      "I, II ve III",
+      "I, III ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": 0,
+    "aciklama": "Fenerlerin uzaklığı sabit, yalnızca geliş açısı değişmiştir. Dik gelen ışık daha küçük alana yayılır; birim yüzeye düşen enerji fazladır. Düzenekte uzaklık değişmediği için IV yanlıştır."
+  },
+  {
+    "id": "8fen-d1-02",
+    "kazanim": "F.8.1.2.1 – F.8.1.2.2",
+    "unite": "Mevsimler ve İklim",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre Kerem, tablonun hangi satırlarında hata yapmıştır?",
+    "baglam": "Kerem, gazete ve haber sitelerinden derlediği ifadeleri aşağıdaki tabloda sınıflandırmıştır. Kerem her ifadenin hava olayı mı yoksa iklim mi olduğunu ve bu konuyu inceleyen uzmanı tabloya yazmıştır. İfade Türü İnceleyen uzman 1 Yarın Karadeniz kıyılarında öğle saatlerinden itibaren kuvvetli sağanak yağış bekleniyor. Hava olayı Meteorolog 2 Rize'de yılın büyük bölümü yağışlı geçtiği ve kışlar çok soğuk olmadığı için çay tarımı yapılabilmektedir. Hava olayı Klimatolog 3 Uzun yıllara ait kayıtlar, ülkemizde kurak geçen dönemlerin giderek uzadığını gösteriyor. İklim Meteorolog 4 Bu sabah Erzurum'da etkili olan yoğun sis nedeniyle bazı uçak seferleri ertelendi. Hava olayı Meteorolog 5 Antalya'da kışların genellikle ılık geçmesi seracılığın yaygınlaşmasını sağlamıştır. İklim Klimatolog",
+    "maddeler": [],
+    "secenekler": [
+      "1 ve 2",
+      "1 ve 4",
+      "2 ve 3",
+      "3 ve 5"
+    ],
+    "cevap": 2,
+    "aciklama": "2. ifade uzun süreli ortalama koşulları anlatır (iklim). 3. ifade iklim ile ilgilidir ancak uzun yıllık verileri inceleyen uzman klimatologdur."
+  },
+  {
+    "id": "8fen-d1-03",
+    "kazanim": "F.8.1.1.1",
+    "unite": "Mevsimler ve İklim",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Görsel ve konuşma birlikte değerlendirildiğinde aşağıdakilerden hangisi doğrudur ?",
+    "baglam": "Aşağıdaki görselde Dünya'nın Güneş etrafında dolanırken bulunduğu dört farklı konum K, L, M ve N harfleriyle gösterilmiştir. Dünya'nın dönme ekseninin eğikliği ve yönü her konumda aynıdır. Kuzey Yarım Küre'deki Ankara'da yaşayan Ece ile Güney Yarım Küre'deki Santiago'da (Şili) yaşayan Lucas, aynı gün görüntülü konuşma yapmıştır. Ece: Bugün yılın en uzun gündüzünü yaşadık. Yarından itibaren gündüzler kısalmaya başlayacak. Lucas: Burada ise hava soğuk. Akşam da çok erken karardı.",
+    "maddeler": [],
+    "secenekler": [
+      "Konuşmanın yapıldığı gün Dünya M konumundadır.",
+      "Dünya K konumundan L konumuna ilerlerken Santiago'da gündüz süreleri uzar.",
+      "Dünya L konumundayken Ankara'ya öğle vakti Güneş ışınları yılın en dik açısıyla gelir.",
+      "Konuşmanın yapıldığı gün Santiago'da yaz mevsimi başlar."
+    ],
+    "cevap": 1,
+    "aciklama": "Ece'nin ifadesi 21 Haziran'ı gösterir; Kuzey Kutbu'nun Güneş'e yöneldiği konum K'dir. K'den L'ye (23 Eylül) giderken Güney Yarım Küre'de gündüzler uzar."
+  },
+  {
+    "id": "8fen-d1-04",
+    "kazanim": "F.8.1.2.1 – F.8.1.2.2",
+    "unite": "Mevsimler ve İklim",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Öğrencilerin yorumlarından hangileri bilimsel olarak doğrudur?",
+    "baglam": "Bir iklim bilimci, dağlardaki buzulların değişimini incelemek için bir bölgeye ait uzun yıllar boyunca toplanmış ortalama sıcaklık ve buzul alanı verilerini grafiğe dönüştürmüştür. Ayrıca aynı buzulun geçmişte ve günümüzde çekilmiş fotoğraflarını karşılaştırmıştır. Bu çalışmayı inceleyen öğrenciler şu yorumları yapmıştır:",
+    "maddeler": [
+      "Sıcaklığın bazı yıllarda bir önceki yıla göre düşmüş olması, bölgede uzun dönemde bir ısınma olmadığını gösterir.",
+      "Buzul alanının küçülmesi, uzun dönemde görülen sıcaklık artışıyla ilişkilendirilebilir.",
+      "Uzun yıllara ait verilerin incelenmesi, bu çalışmanın klimatolojinin ilgi alanında olduğunu gösterir.",
+      "Bölgede bir kış mevsiminin çok soğuk ve kar yağışlı geçmesi, küresel iklim değişikliğinin sona erdiğini kanıtlar."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "III ve IV",
+      "I, II ve III"
+    ],
+    "cevap": 1,
+    "aciklama": "İklim uzun dönem ortalamalarla değerlendirilir; tek tek yıllardaki dalgalanmalar ya da tek bir mevsim, uzun dönemli eğilimi çürütmez."
+  },
+  {
+    "id": "8fen-d1-05",
+    "kazanim": "F.8.2.1.1",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Bu çıkarımlardan hangileri hem modelle hem de bilimsel bilgilerle uyumludur ?",
+    "baglam": "Fen bilimleri öğretmeni, kalıtsal yapılar arasındaki ilişkiyi anlatmak için okul kütüphanesini model olarak kullanmış ve aşağıdaki eşleştirmeleri yapmıştır. Modeldeki yapı Hücredeki karşılığı Kütüphane Hücre çekirdeği Raflardaki kitapların her biri Kromozom Bir kitabın kapağı ve cildi DNA'yı saran özel proteinler Bir kitaptaki yazıların tamamı DNA Kitapta belirli bir konuyu anlatan bölüm Gen Yazıları oluşturan harfler Nükleotit Öğrenciler bu modelden yola çıkarak şu çıkarımları yapmıştır:",
+    "maddeler": [
+      "Bir kromozomda farklı özellikleri belirleyen çok sayıda gen bulunabilir.",
+      "Genler, DNA'yı oluşturan nükleotitlerin belirli bir sırayla dizilmesiyle oluşur.",
+      "Harflerin sırası değişince cümlenin anlamı değişebileceği gibi nükleotitlerin diziliş sırasındaki bir değişiklik de canlının bir özelliğini değiştirebilir.",
+      "Kitap sayısı fazla olan bir kütüphanenin daha zengin olması gibi kromozom sayısı fazla olan bir canlı da daha gelişmiştir."
+    ],
+    "secenekler": [
+      "I ve II",
+      "I ve IV",
+      "II ve IV",
+      "I, II ve III"
+    ],
+    "cevap": 3,
+    "aciklama": "Kromozom sayısı ile canlının gelişmişliği arasında bir ilişki yoktur; diğer çıkarımlar nükleotit → gen → DNA → kromozom ilişkisine uygundur."
+  },
+  {
+    "id": "8fen-d1-06",
+    "kazanim": "F.8.2.1.2",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Öğretmenin açıklamalarından hangileri doğrudur?",
+    "baglam": "Okuldaki bilim şenliği için Can, renkli kil ve pipetler kullanarak bir DNA modeli hazırlamıştır. Can'ın modeli ve kullandığı malzemelerin anlamı aşağıda verilmiştir. Fen bilimleri öğretmeni, modelde bir hata olduğunu belirtmiş ve şu açıklamaları yapmıştır:",
+    "maddeler": [
+      "Hata, 3. basamakta karşılıklı gelen bazların yanlış seçilmesidir; timinin karşısına adenin gelmeliydi.",
+      "Modelde her nükleotit bir fosfat, bir deoksiriboz şekeri ve bir organik bazdan oluşacak şekilde gösterilmiştir.",
+      "Canlıların DNA'sında da buna benzer eşleşme hataları oluşabilir ve bu hataların bir kısmı hücre tarafından onarılabilir.",
+      "Model düzeltildiğinde iki zincirdeki bazların diziliş sırası birbirinin aynısı olur."
+    ],
+    "secenekler": [
+      "I ve IV",
+      "II ve III",
+      "I, II ve III",
+      "II, III ve IV"
+    ],
+    "cevap": 2,
+    "aciklama": "DNA'da adenin timinle, guanin sitozinle eşleşir. İki zincir birbirinin aynısı değil tamamlayıcısıdır. DNA'daki hataların bir kısmı onarılabilir."
+  },
+  {
+    "id": "8fen-d1-07",
+    "kazanim": "F.8.2.1.3",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre DNA'nın kendini eşlemesiyle ilgili aşağıdakilerden hangisi yanlıştır ?",
+    "baglam": "Dizini yere sürterek yaralayan Elif, birkaç gün sonra yarasının kapandığını fark etmiştir. Yaranın iyileşmesi sırasında deri hücreleri bölünerek çoğalmıştır. Hücre bölünmeden önce çekirdekteki DNA kendini eşler. Aşağıda bu olayın bir bölümü modellenmiştir.",
+    "maddeler": [],
+    "secenekler": [
+      "Oluşan DNA moleküllerinin her birinde başlangıçtaki DNA'ya ait bir zincir bulunur.",
+      "Yeni zincirler, hücrede serbest hâlde bulunan nükleotitler kullanılarak oluşturulur.",
+      "Eşlenme hatasız gerçekleşirse yeni hücreler, bölünen hücreyle aynı kalıtsal bilgiye sahip olur.",
+      "Açılan zincirlerin karşısına, o zincirdeki nükleotitlerin aynısı olan nükleotitler yerleşir."
+    ],
+    "cevap": 3,
+    "aciklama": "Açılan zincirin karşısına tamamlayıcı nükleotitler gelir (A–T, G–C). Bu nedenle yeni zincir, kalıp zincirin aynısı değil tamamlayıcısıdır."
+  },
+  {
+    "id": "8fen-d1-08",
+    "kazanim": "F.8.2.2.1",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Etiketlerdeki bilgilere göre bu bitkiyle ilgili ifadelerden hangileri doğrudur?",
+    "baglam": "Aşağıdaki tabloda bezelyelerde üç karakterin baskın ve çekinik özellikleri ile bunları belirleyen genlerin sembolleri verilmiştir. Karakter Baskın özellik Çekinik özellik Bitki boyu Uzun (U) Kısa (u) Çiçek rengi Mor (M) Beyaz (m) Tohum rengi Sarı (S) Yeşil (s) Bir araştırmacı, bahçesindeki bir bezelye bitkisinin bu karakterlere ait genotiplerini belirleyerek bitkinin üzerine etiketlemiştir.",
+    "maddeler": [
+      "Bitki, boy karakteri bakımından melez döldür ve uzun boyludur.",
+      "Bitki, çiçek rengi bakımından saf döldür ve çekinik özelliği gösterir.",
+      "Tohum rengi bakımından, yalnızca fenotipe bakılarak bu bitkinin genotipi kesin olarak belirlenebilir.",
+      "Bitki kendi polenleriyle tozlaşırsa oluşan yeni bitkilerin tamamı beyaz çiçekli olur."
+    ],
+    "secenekler": [
+      "I, II ve IV",
+      "I, III ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": 0,
+    "aciklama": "Sarı tohum fenotipi SS ya da Ss genotipinden oluşabilir; bu nedenle yalnız fenotipe bakarak genotip kesin belirlenemez."
+  },
+  {
+    "id": "8fen-d1-09",
+    "kazanim": "F.8.2.2.2",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Bu çaprazlamalarla ilgili aşağıdakilerden hangisi yanlıştır ?",
+    "baglam": "Bir tohum firması, tohum rengi bakımından yalnızca saf döl olan sarı tohumlu bezelyeleri satışa sunmak istemektedir. Bu amaçla fenotipi sarı tohumlu olan X ve Y bezelyelerini, yeşil tohumlu bezelyelerle ayrı ayrı çaprazlamış ve aşağıdaki sonuçları elde etmiştir.",
+    "maddeler": [],
+    "secenekler": [
+      "Sarı tohum rengi, yeşil tohum rengine baskındır.",
+      "Firmanın saf döl olarak satabileceği bezelye X'tir.",
+      "Deney 2'de oluşan yeşil tohumlu bezelyeler melez döldür.",
+      "X ile Y çaprazlanırsa oluşan bezelyelerin hepsi sarı tohumlu olur."
+    ],
+    "cevap": 2,
+    "aciklama": "Yeşil tohum çekinik özelliktir; çekinik özellik yalnızca iki çekinik gen bir araya geldiğinde (ss) görülür. Bu nedenle yeşil tohumlu bezelyeler saf döldür."
+  },
+  {
+    "id": "8fen-d1-10",
+    "kazanim": "F.8.2.2.2",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 2,
+    "soru": "Buna göre hangi kişilerin görüşleri bilimsel bilgilerle uyumludur ?",
+    "baglam": "Üç kız çocuğu olan Yıldız ailesi, dördüncü çocuklarını beklemektedir. Bir akşam yemeğinde aile bireyleri ve misafir olarak gelen komşuları, doğacak bebeğin cinsiyetiyle ilgili şu görüşleri dile getirmiştir. Babaanne: Gelinim hep kız doğurdu. Demek ki çocuğun cinsiyetini belirleyen annedir. Komşu: Üç kızdan sonra dördüncü çocuğun erkek olması kesindir. Baba: Çocuğun cinsiyeti, benden gelen üreme hücresinin taşıdığı eşey kromozomuyla belirlenir. Ayşe: Annemin yumurta hücrelerinin hepsi aynı tür eşey kromozomu taşır. Bu yüzden cinsiyeti annem belirleyemez.",
+    "maddeler": [],
+    "secenekler": [
+      "Babaanne ve Baba",
+      "Baba ve Ayşe",
+      "Komşu ve Ayşe",
+      "Babaanne, Baba ve Ayşe"
+    ],
+    "cevap": 1,
+    "aciklama": "Yumurta hücrelerinin hepsi X taşır; sperm hücreleri X ya da Y taşır. Cinsiyeti babadan gelen eşey kromozomu belirler. Önceki doğumlar sonraki çocuğun cinsiyetini etkilemez."
+  },
+  {
+    "id": "8fen-d1-11",
+    "kazanim": "F.8.2.2.3",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Soy ağacına göre yukarıdaki ifadelerden hangileri doğrudur?",
+    "baglam": "Kalıtsal bir hastalığı olan bir çocuğun ailesi genetik danışmanlık merkezine başvurmuştur. Uzmanlar ailenin soy ağacını aşağıdaki gibi çıkarmış ve hasta çocuğun anne ile babasının kuzen olduğunu belirlemiştir.",
+    "maddeler": [
+      "Hastalık, çekinik bir genle ortaya çıkmaktadır.",
+      "Hasta çocuğun anne ve babası, hastalık genini taşıdıkları hâlde hasta değildir.",
+      "Anne ve babanın akraba olması, aynı çekinik geni taşıma olasılıklarını artırmıştır.",
+      "Bu ailede hastalığa neden olan gen yalnızca hasta çocukta bulunur."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve IV",
+      "III ve IV",
+      "I, II ve III"
+    ],
+    "cevap": 3,
+    "aciklama": "Sağlıklı anne-babadan hasta çocuk doğduğu için hastalık geni çekiniktir ve anne-baba taşıyıcıdır. Akrabalar ortak atalardan gelen aynı çekinik geni taşıyabilir."
+  },
+  {
+    "id": "8fen-d1-12",
+    "kazanim": "F.8.2.3.3",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre Zeynep'in hangi olaylarla ilgili değerlendirmeleri hatalıdır ?",
+    "baglam": "Zeynep, mutasyon ve modifikasyon konusunu tekrar ederken bazı olayları aşağıdaki tabloda değerlendirmiştir. Olay Genlerin yapısı değişir mi? Yavrulara aktarılır mı? K Güneş ışınlarına uzun süre korunmasız kalan bir kişinin deri hücrelerinde kalıcı bir değişiklik oluşması Evet Hayır L Larva döneminde arı sütüyle beslenen dişi arının kraliçe arı olması Hayır Evet M Radyasyona maruz kalan bir bitkinin üreme hücrelerinde oluşan değişikliğin yeni bitkilerde görülmesi Evet Evet N Düzenli spor yapan bir kişinin kaslarının gelişmesi Evet Hayır",
+    "maddeler": [],
+    "secenekler": [
+      "Yalnız N",
+      "L ve N",
+      "K ve M",
+      "K, L ve N"
+    ],
+    "cevap": 1,
+    "aciklama": "L ve N modifikasyondur: genlerin yapısı değişmez, yavrulara aktarılmaz. K vücut hücresinde oluşan mutasyondur; yavrulara aktarılmaz. M üreme hücresinde oluşan mutasyondur."
+  },
+  {
+    "id": "8fen-d1-13",
+    "kazanim": "F.8.2.4.1",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Bu tilkilerin sahip olduğu özelliklerle ilgili ifadelerden hangileri doğrudur?",
+    "baglam": "Çöl tilkisi, gündüzleri çok sıcak olan çöllerde; kutup tilkisi ise yılın büyük bölümünde karla kaplı soğuk bölgelerde yaşar. Çöl tilkisinin kulakları vücuduna göre oldukça büyük, tüyleri ince ve kum rengindedir. Kutup tilkisinin kulakları küçük ve yuvarlak, tüyleri ise kalın ve beyazdır.",
+    "maddeler": [
+      "Çöl tilkisinin büyük kulakları, vücut ısısını çevreye vermesini kolaylaştırarak serinlemesine yardımcı olur.",
+      "Kutup tilkisinin kalın tüyleri ve küçük kulakları, vücut ısısının kaybını azaltır.",
+      "Bir kutup tilkisi çöle götürülürse kulakları zamanla büyür ve bu özellik yavrularına aktarılır.",
+      "Ortama uygun özelliklere sahip bireylerin hayatta kalma ve üreme şansı daha yüksek olduğundan bu kalıtsal özellikler nesiller boyunca yaygınlaşmıştır."
+    ],
+    "secenekler": [
+      "I, II ve IV",
+      "I, III ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": 0,
+    "aciklama": "Adaptasyonlar kalıtsaldır; canlının yaşamı boyunca ortama göre kazandığı değişiklikler yavrulara aktarılmaz. Ortama uygun bireylerin seçilmesi doğal seçilimdir."
+  },
+  {
+    "id": "8fen-d1-14",
+    "kazanim": "F.8.2.5.1 – F.8.2.5.2",
+    "unite": "DNA ve Genetik Kod",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Bu haberlerle ilgili aşağıdakilerden hangisi yanlıştır ?",
+    "baglam": "Aşağıda biyoteknoloji alanındaki çalışmalarla ilgili dört haber verilmiştir. 1. Haber Kuraklığa dayanıklı bir bitkiden alınan gen buğdaya aktarıldı. Yeni buğday daha az suyla yetişebiliyor. 2. Haber Nesli tükenmek üzere olan bir yaban keçisinin vücut hücresinden alınan çekirdekle, bu keçiyle aynı kalıtsal özelliklere sahip bir yavru elde edildi. 3. Haber Kalıtsal bir göz hastalığı olan kişilerin göz hücrelerine, hastalığa neden olan genin sağlam kopyası aktarıldı. 4. Haber Süt verimi yüksek inekler seçilerek nesiller boyunca birbiriyle çiftleştirildi ve süt verimi yüksek yeni bir ırk elde edildi.",
+    "maddeler": [],
+    "secenekler": [
+      "1. haberde elde edilen buğdayın doğaya ve diğer canlılara olası etkileri uzun süre araştırılmalıdır.",
+      "2. haberde elde edilen yavrunun kalıtsal özellikleri, hücre çekirdeğinin alındığı keçiyle aynıdır.",
+      "3. haberdeki uygulama gen tedavisine örnektir.",
+      "4. haberde ineklerin genleri laboratuvarda doğrudan değiştirildiği için bu uygulama gen aktarımına örnektir."
+    ],
+    "cevap": 3,
+    "aciklama": "4. haberdeki uygulama ıslahtır (yapay seçilim): istenen özellikteki canlılar seçilerek çiftleştirilir; genlere doğrudan müdahale edilmez."
+  },
+  {
+    "id": "8fen-d1-15",
+    "kazanim": "F.8.3.1.1",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre Efe'nin yaptığı çıkarımlardan hangileri doğrudur?",
+    "baglam": "Kayak merkezine giden Efe, kar raketlerinin karda yürümeyi neden kolaylaştırdığını merak etmiştir. Efe, aynı kar alanında dört farklı durumda yürüyerek oluşan izlerin derinliklerini incelemiştir. Kar botları birbirinin aynısı, kar raketleri de birbirinin aynısıdır.",
+    "maddeler": [
+      "K ve L'deki izler karşılaştırılarak katı basıncının yüzey alanına bağlı olduğu gösterilebilir.",
+      "L ve N'deki izler karşılaştırılarak katı basıncının ağırlığa bağlı olduğu gösterilebilir.",
+      "M ve N'deki iz derinliklerinin farklı olması, kara temas eden yüzey alanlarının farklı olmasından kaynaklanır.",
+      "K ve N'deki izler karşılaştırıldığında, yüzey alanı aynı iken ağırlık arttıkça katı basıncının arttığı görülür."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve IV",
+      "I, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": 2,
+    "aciklama": "L ve N'de hem yüzey alanı hem ağırlık değiştiği için hangi değişkenin etkili olduğu anlaşılamaz. Diğer karşılaştırmalarda yalnızca bir değişken değişmiştir."
+  },
+  {
+    "id": "8fen-d1-16",
+    "kazanim": "F.8.3.1.2",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre Defne'nin yaptığı çıkarımlardan hangileri doğrudur?",
+    "baglam": "Defne, U borulu basınç ölçerin hortumuna bağlı ve ağzı lastik zarla kapatılmış bir huniyi sıvıların içine yerleştirerek dört deney yapmıştır. U borusundaki sıvı seviyeleri arasındaki fark ne kadar büyükse huninin bulunduğu yerdeki sıvı basıncı o kadar büyüktür. Deney 2, 3 ve 4'te huni, sıvı yüzeyinden aynı derinliktedir.",
+    "maddeler": [
+      "Deney 1 ve 2'ye göre derinlik arttıkça sıvı basıncı artar.",
+      "Deney 2 ve 4'e göre sıvı basıncı kabın genişliğine bağlı değildir.",
+      "Deney 2 ve 3'e göre sıvı basıncı sıvının cinsine bağlı değildir.",
+      "Barajların duvarlarının tabana doğru kalınlaştırılması, Deney 1 ve 2'den elde edilen sonuçla açıklanabilir."
+    ],
+    "secenekler": [
+      "I ve II",
+      "I, II ve IV",
+      "II, III ve IV",
+      "I, II, III ve IV"
+    ],
+    "cevap": 1,
+    "aciklama": "Aynı derinlikte zeytinyağında seviye farkı sudakinden azdır; sıvı basıncı sıvının cinsine (yoğunluğuna) bağlıdır. Kap genişliği basıncı değiştirmez."
+  },
+  {
+    "id": "8fen-d1-17",
+    "kazanim": "F.8.3.1.2 – F.8.3.1.3",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Apartmandaki su sistemiyle ilgili ifadelerden hangileri doğrudur?",
+    "baglam": "Bir apartmanın çatısındaki su deposundan dairelere su, aşağıdaki gibi borularla ulaştırılmaktadır. Apartmanda yaşayanlar, zemin kattaki musluklardan suyun en üst kattakilere göre daha basınçlı aktığını fark etmiştir.",
+    "maddeler": [
+      "Zemin kattaki musluktan suyun daha basınçlı akması, bu musluğun depodaki su yüzeyinden daha derinde olmasından kaynaklanır.",
+      "Depodaki su seviyesi azaldıkça musluklardan akan suyun basıncı azalır.",
+      "En üst kattaki musluktan suyun daha basınçlı akması için depoyu, su seviyesi aynı kalacak şekilde tabanı daha geniş bir depoyla değiştirmek yeterlidir.",
+      "Deponun daha yüksek bir noktaya taşınması, bütün musluklardaki su basıncını artırır."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "I, III ve IV",
+      "I, II ve IV"
+    ],
+    "cevap": 3,
+    "aciklama": "Sıvı basıncı, sıvı yüzeyinden olan derinliğe bağlıdır; kabın genişliğine bağlı değildir."
+  },
+  {
+    "id": "8fen-d1-18",
+    "kazanim": "F.8.3.1.2 – F.8.3.1.3",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Mert'in gözlemleriyle ilgili ifadelerden hangileri doğrudur?",
+    "baglam": "Antalya'da deniz kenarında yaşayan Mert, ailesiyle Toros Dağları'ndaki bir yaylaya gitmiştir. Yanına aldığı ağzı kapalı cips paketinin yaylada şiştiğini fark etmiştir. Mert yaylada boş bir pet şişenin kapağını sıkıca kapatmış, sahile döndüklerinde ise şişenin büzüldüğünü görmüştür.",
+    "maddeler": [
+      "Paketin yaylada şişmesi, yaylada açık hava basıncının sahile göre daha az olmasından kaynaklanır.",
+      "Şişenin sahilde büzülmesi, dışarıdaki hava basıncının şişenin içindeki hava basıncından büyük olmasından kaynaklanır.",
+      "Yolculuk boyunca paketin içindeki hava miktarı artmıştır.",
+      "Kapağı sahilde kapatılan bir şişe yaylaya götürülseydi şişe büzülürdü."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "I, II ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": 0,
+    "aciklama": "Kapalı paket ve şişedeki hava miktarı değişmez. Yükseklere çıkıldıkça açık hava basıncı azalır; sahilde kapatılan şişe yaylada büzülmez."
+  },
+  {
+    "id": "8fen-d1-19",
+    "kazanim": "F.8.3.1.3",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Hidrolik kaldıraçla ilgili verilen ifadelerden hangileri doğrudur?",
+    "baglam": "Bir oto servisinde arabaları kaldırmak için kullanılan hidrolik kaldıraç aşağıda modellenmiştir. Bu sistem, bilimsel bilgi türlerinden biri olan Pascal prensibine göre çalışır.",
+    "maddeler": [
+      "Küçük pistona uygulanan basınç, sıvı tarafından büyük pistona aynen iletilir.",
+      "Sıvının büyük pistona uyguladığı basınç, küçük pistona uygulanan basınçtan büyüktür.",
+      "Küçük pistona uygulanan kuvvetten daha büyük bir kuvvet, büyük pistonda elde edilir.",
+      "Berber koltukları ve iş makinelerindeki kepçeler de bu sistemle aynı prensiple çalışır."
+    ],
+    "secenekler": [
+      "I ve II",
+      "II ve III",
+      "I, III ve IV",
+      "II, III ve IV"
+    ],
+    "cevap": 2,
+    "aciklama": "Kapalı kaptaki sıvıya uygulanan basınç her yöne aynen iletilir; iki pistondaki basınç eşittir. Büyük pistonun yüzey alanı büyük olduğu için daha büyük kuvvet elde edilir."
+  },
+  {
+    "id": "8fen-d1-20",
+    "kazanim": "F.8.3.1.3",
+    "unite": "Basınç",
+    "tur": "coktan-secmeli",
+    "zorluk": 3,
+    "soru": "Buna göre tüm ifadeleri doğru değerlendiren bir öğrenci hangi çıkışa ulaşır?",
+    "baglam": "Fen bilimleri öğretmeni, basıncın günlük hayattaki uygulamalarıyla ilgili \"Basınç Rallisi\" adlı bir etkinlik hazırlamıştır. Öğrenciler 1. kutudan başlayarak her kutudaki ifade doğru ise D , yanlış ise Y okunu takip etmektedir.",
+    "maddeler": [],
+    "secenekler": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "cevap": 0,
+    "aciklama": "1. ifade doğru (D) → 2. ifade yanlış (Y), çünkü vantuzun içindeki basınç dışarıdakinden küçüktür → 5. ifade doğru (D) → 3. çıkış."
+  }
+]
