@@ -1,0 +1,9 @@
+{
+  "_not": "Burada yalnızca ses ID'leri durur. ElevenLabs API anahtarı bu dosyaya ya da herhangi bir HTML'e asla yazılmaz.",
+  "saglayici": "elevenlabs",
+  "karakterler": {
+    "mr-atom": { "ses_id": "D8MMW4UPF0Vmhg6m5QKV", "yedek_ses": "tarayici-tr-TR" },
+    "gidik": { "ses_id": null, "yedek_ses": "tarayici-tr-TR" },
+    "mr-konak": { "ses_id": null, "yedek_ses": "tarayici-tr-TR" }
+  }
+}
