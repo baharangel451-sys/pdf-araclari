@@ -1,3 +1,8 @@
 node_modules/
 .cache/
 cikti/
+
+# Gizli anahtarlar (ElevenLabs vb.) asla depoya girmez
+.env
+.env.*
+!.env.ornek
